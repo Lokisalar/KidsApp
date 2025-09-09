@@ -3,5 +3,7 @@ body{
     background-color: aquamarine;
 }
 h2{
-    text-align: center;
+    text-align: center; 
+    background-color: black;
+    color: aliceblue;
 }
